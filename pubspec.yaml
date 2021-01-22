@@ -20,7 +20,7 @@ dev_dependencies:
 
 environment:
   sdk: '>=2.7.0 <3.0.0'
-  flutter: ">=1.22.5"
+  flutter: ">=1.22.0"
 
 ## For developing features that require new functionality in engine:
 # dependency_overrides:
